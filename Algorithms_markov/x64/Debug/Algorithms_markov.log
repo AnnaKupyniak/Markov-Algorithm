@@ -1,0 +1,13 @@
+﻿  MarkovAlgorithm.cpp
+  MyString.cpp
+C:\Users\annak\Algorithms\Algorithms_markov\Algorithms_markov\MyString.h(32,1): error C1070: mismatched #if/#endif pair in file 'C:\Users\annak\Algorithms\Algorithms_markov\Algorithms_markov\MyString.h'
+  (compiling source file 'MarkovAlgorithm.cpp')
+  
+C:\Users\annak\Algorithms\Algorithms_markov\Algorithms_markov\MyString.h(31,1): error C1020: unexpected #endif
+  (compiling source file 'MyString.cpp')
+  
+  main.cpp
+C:\Users\annak\Algorithms\Algorithms_markov\Algorithms_markov\MyString.h(31,1): error C1020: unexpected #endif
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
